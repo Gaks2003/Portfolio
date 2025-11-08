@@ -1,66 +1,54 @@
 # Girish Saraf - Portfolio Website
 
-A modern, responsive portfolio website showcasing skills, projects, and experience in software development, cybersecurity, and AI engineering.
+A modern, responsive portfolio website built with React and Tailwind CSS showcasing skills, projects, and experience.
 
-## 🚀 Features
+## Features
 
-- **Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
-- **Modern UI** - Clean, professional design with smooth animations
-- **Interactive Elements** - Hover effects and smooth scrolling navigation
-- **Optimized Performance** - Fast loading with minimal dependencies
+- **Responsive Design**: Works perfectly on all devices
+- **Modern UI**: Clean and professional design with smooth animations
+- **Interactive Components**: Engaging user experience with Framer Motion
+- **Contact Integration**: Direct links to email, phone, and LinkedIn
+- **Project Showcase**: Detailed presentation of key projects
+- **Skills Display**: Organized technical skills by category
 
-## 🛠️ Technologies Used
+## Technologies Used
 
-- **HTML5** - Semantic markup structure
-- **CSS3** - Modern styling with Grid and Flexbox
-- **JavaScript** - Interactive functionality
-- **Font Awesome** - Professional icons
-- **Google Fonts** - Inter typography
+- React 18
+- Tailwind CSS
+- Framer Motion (animations)
+- Lucide React (icons)
 
-## 📁 Project Structure
+## Getting Started
 
-```
-portfolio/
-├── index.html          # Main HTML file
-├── styles.css          # CSS styles
-├── script.js           # JavaScript functionality
-└── README.md           # Project documentation
-```
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-## 🎨 Sections
+2. Start the development server:
+   ```bash
+   npm start
+   ```
 
-- **Hero** - Introduction with call-to-action buttons
-- **About** - Personal summary and key statistics
-- **Skills** - Technical skills organized by category
-- **Projects** - Featured projects with descriptions
-- **Experience** - Timeline of work and education
-- **Contact** - Professional contact information
+3. Build for production:
+   ```bash
+   npm run build
+   ```
 
-## 🚀 Getting Started
+## Sections
 
-1. Clone or download the repository
-2. Open `index.html` in your web browser
-3. The website will load with all sections and functionality
+- **Hero**: Introduction and contact buttons
+- **About**: Education, experience, and certifications
+- **Skills**: Technical skills organized by category
+- **Projects**: Featured projects with technologies and features
+- **Contact**: Contact information and call-to-action
 
-## 📱 Responsive Breakpoints
-
-- **Desktop**: 1200px and above
-- **Tablet**: 768px - 1199px
-- **Mobile**: Below 768px
-
-## 🎯 Key Highlights
-
-- **CGPA**: 8.4/10 in Computer Science & Engineering
-- **Projects**: 4+ completed projects
-- **Certifications**: 4 professional certifications
-- **Skills**: Python, Java, JavaScript, Cybersecurity, AI/ML
-
-## 📞 Contact
+## Contact Information
 
 - **Email**: gsaraf0506@gmail.com
-- **LinkedIn**: [linkedin.com/in/girish-saraf-546bb7257](https://linkedin.com/in/girish-saraf-546bb7257)
-- **Phone**: +91 9606355299
+- **Phone**: 9606355299
+- **LinkedIn**: linkedin.com/in/girish-saraf-546bb7257
 
-## 📄 License
+---
 
-This project is open source and available under the [MIT License](LICENSE).
+Built with ❤️ using React & Tailwind CSS
