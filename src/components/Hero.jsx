@@ -74,7 +74,7 @@ const Hero = () => {
               <div className="w-80 h-80 mx-auto rounded-full bg-gradient-to-br from-primary via-secondary to-accent p-1 shadow-2xl">
                 <div className="w-full h-full rounded-full overflow-hidden relative">
                   <img 
-                    src="/profile.jpg" 
+                    src="./profile.jpg" 
                     alt="Girish Saraf" 
                     className="w-full h-full object-cover rounded-full"
                   />
