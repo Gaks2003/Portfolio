@@ -48,7 +48,3 @@ A modern, responsive portfolio website built with React and Tailwind CSS showcas
 - **Email**: gsaraf0506@gmail.com
 - **Phone**: 9606355299
 - **LinkedIn**: linkedin.com/in/girish-saraf-546bb7257
-
----
-
-Built with ❤️ using React & Tailwind CSS
